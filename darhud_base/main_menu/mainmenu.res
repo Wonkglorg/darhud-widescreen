@@ -396,7 +396,7 @@
 		"ControlName"	"CPvPRankPanel"
 		"fieldName"		"RankPanel"
 		"xpos"			"c-125"
-		"ypos"			"r60"
+		"ypos"			"r62"       //Widescreen fix: Slightly moved up otherwise sticks into bottom of window
 		"zpos"			"2"
 		"wide"			"350"
 		"tall"			"60"
@@ -2647,7 +2647,7 @@
 		"xpos"			"-5"
 		"ypos"			"418"
 		"zpos"			"3"
-		"wide"			"1000"
+		"wide"			"1160"  //Widescreen fix: Change this width if the there is a shadow border at the bottom of the screen
 		"tall"			"70"
 		"visible"		"1"
 		"enabled"		"1"
