@@ -227,7 +227,7 @@
 		"xpos"			"cs-0.5"
 		"ypos"			"p.7"
 		"wide"			"300"
-		"tall"			"100"
+		"tall"			"110"       //Widescreen fix: extended height to accommodate new element placement
 		"zpos"			"100"
 		"border"		"MainMenuBGBorder"
 		"mouseinputenabled"	"1"
@@ -507,7 +507,7 @@
 			"fieldName"		"NewSeedButton"
 			"font"			"HudFontSmallest"
 			"xpos"			"8"
-			"ypos"			"75"
+			"ypos"			"80"    //Widescreen fix: moved down slightly to not cover the wear slider
 			"fixed_item"
 			{
 				"ypos"		"50"
@@ -548,7 +548,7 @@
 			"fieldName"		"SeedTextEntry"
 			"font"			"HudFontSmallest"
 			"xpos"			"90"
-			"ypos"			"75"
+			"ypos"			"80"    //Widescreen fix: moved down slightly to not cover the wear slider
 			"fixed_item"
 			{
 				"ypos"		"50"
@@ -582,7 +582,7 @@
 			"fieldName"		"MarketButton"
 			"font"			"HudFontSmallest"
 			"xpos"		"rs1-10"
-			"ypos"			"75"
+			"ypos"			"80"        //Widescreen fix: moved down slightly to not cover the wear slider
 			"fixed_item"
 			{
 				"ypos"		"50"
