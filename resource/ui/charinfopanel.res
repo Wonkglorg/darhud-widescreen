@@ -46,7 +46,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BackgroundFooter"
 		"xpos"			"0"
-		"ypos"			"420"
+		"ypos"			"450"                   //Widescreen fix: slightly lowered footer position to not block the bottom slot row outline
 		"zpos"			"1"
 		"wide"			"f0"
 		"tall"			"60"
