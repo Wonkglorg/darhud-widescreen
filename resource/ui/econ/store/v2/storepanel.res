@@ -50,7 +50,7 @@
 		"ControlName"	"EditablePanel"
 		"fieldName"		"BackgroundFooter"
 		"xpos"			"0"
-		"ypos"			"r2"
+		"ypos"			"420"           //Widescreen fix: moved footer background to the correct spot to not block the empty gap at the bottom
 		"zpos"			"-2"
 		"wide"			"f0"
 		"tall"			"120"
